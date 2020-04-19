@@ -152,7 +152,7 @@
   }
 
   .master-box {
-    margin: 50px 5% auto;
+    margin: 50px 5% 70px;
     padding: 0;
     vertical-align: 50%;
     display: grid;
@@ -272,7 +272,7 @@
   .master-box {
     height: 520px;
     width: 700px;
-    margin: 70px auto auto;
+    margin: 70px auto;
 
 
     display: grid;
